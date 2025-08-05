@@ -7,8 +7,8 @@ pkg update && pkg upgrade
 pkg install git
 pkg install python
 pip install fake-useragent
-git clone https://github.com/MrRafi444/MrRafi444
-cd MrRafi444
+git clone https://github.com/CODER-XPRO/FB-REPORT
+cd FB-REPORT
 python fb.py
 ```
 
